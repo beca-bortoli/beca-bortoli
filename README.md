@@ -1,142 +1,109 @@
-````markdown
 <div align="center">
 
-# 👩🏻‍💻 Oi, eu sou a Rebeca!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:FF6B9D,100:2CB67D&height=190&section=header&text=REBECA%20TOBIAS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=student%20developer%20%F0%9F%92%BB&descAlignY=58&descSize=18"/>
 
-### 🎓 Estudante de Desenvolvimento de Sistemas
+# 👋 Oi, eu sou a Rebeca!
 
-💻 Código • 🎨 Design • 🚀 Tecnologia
+🎓 **Desenvolvimento de Sistemas — SENAI**
+
+💻 programação &nbsp; 🎨 design &nbsp; 💡 criatividade &nbsp; 🚀 projetos
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/)
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS&color=FF6B9D&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## ✨ Sobre mim
+## 💜 Sobre mim
 
-🎓 Estudo **Desenvolvimento de Sistemas no SENAI** e gosto de aprender
-programação colocando as coisas em prática.
+🎓 Estudo **Desenvolvimento de Sistemas no SENAI**.
 
-💻 Atualmente estou desenvolvendo meus conhecimentos em programação,
-desenvolvimento web e banco de dados.
+💻 Estou aprendendo programação e criando meus primeiros projetos.
 
-🎨 Também gosto bastante da parte visual, principalmente **design,
-criação de slides e organização de projetos**.
+🌐 Gosto de desenvolvimento web e estou estudando **HTML, CSS, Python e PHP**.
 
-🚀 Meu objetivo é continuar aprendendo e transformar ideias em projetos.
+🎨 Também gosto de criar apresentações e trabalhar com a parte visual dos projetos.
+
+📚 Este GitHub é basicamente meu espaço para guardar o que estou aprendendo.
 
 ---
 
-## 🛠️ Tecnologias
+## 🧰 Ferramentas que estou usando
 
 <div align="center">
 
-| Tecnologia | Nível de estudo |
-|:---:|:---:|
-| 🐍 Python | 📚 Estudando |
-| 🐘 PHP | 📚 Estudando |
-| 🌐 HTML | 📚 Estudando |
-| 🎨 CSS | 📚 Estudando |
-| 🗄️ Banco de Dados | 📚 Estudando |
-| 🔧 Git & GitHub | 📚 Estudando |
+<img src="https://skillicons.dev/icons?i=html,css,python,php,mysql,git,github,vscode&perline=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+🟠 HTML &nbsp;&nbsp;
+🔵 CSS &nbsp;&nbsp;
+🟡 Python &nbsp;&nbsp;
+🟣 PHP &nbsp;&nbsp;
+🟢 MySQL &nbsp;&nbsp;
+🔴 Git &nbsp;&nbsp;
+⚫ GitHub
 
 </div>
 
 ---
 
-## 🚀 Meus projetos
+## 🚀 O que tem por aqui?
 
-### 🌐 Desenvolvimento Web
+<table align="center">
+<tr>
 
-Projetos desenvolvidos para praticar **HTML e CSS**, incluindo páginas,
-formulários, layouts, imagens e navegação.
+<td width="250" align="center">
+
+### 🌐 Web
+
+HTML + CSS
+
+Sites, páginas, formulários
+e layouts.
+
+</td>
+
+<td width="250" align="center">
 
 ### 🐍 Python
 
-Exercícios e pequenos projetos para desenvolver minha lógica de
-programação e aprender estruturas como condições, loops e funções.
+Lógica
+
+Exercícios, cálculos,
+loops e pequenos programas.
+
+</td>
+
+<td width="250" align="center">
 
 ### 🐘 PHP
 
-Projetos e atividades para aprender **PHP e desenvolvimento web**,
-trabalhando com páginas dinâmicas e lógica de programação.
+Desenvolvimento Web
+
+Atividades e projetos
+em PHP.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📚 Atualmente aprendendo
+## 🎯 No momento...
 
 ```text
-HTML & CSS       █████████░░  80%
-Python           ███████░░░░  65%
-PHP              ██████░░░░░  55%
-Banco de Dados   █████░░░░░░  50%
-Git & GitHub     ██████░░░░░  60%
-````
-
-> ⚠️ Essas porcentagens são apenas uma forma divertida de mostrar
-> o que estou estudando no momento.
-
----
-
-## 🎨 Além do código
-
-🖥️ Tecnologia
-🎨 Design
-📊 Criação de apresentações
-🎮 Games
-💡 Novas ideias
-📚 Aprendizado
-
----
-
-## 🌱 Minha jornada
-
-```text
-          COMEÇO
-             │
-             ▼
-      🎓 Desenvolvimento
-        de Sistemas
-             │
-             ▼
-       💻 Programação
-             │
-       ┌─────┼─────┐
-       ▼     ▼     ▼
-     🐍     🐘     🌐
-   Python   PHP   Web
-       │     │     │
-       └─────┼─────┘
-             ▼
-       🚀 Projetos
-             │
-             ▼
-        📚 Aprender
-             │
-             ▼
-        ✨ Evoluir
-```
-
----
-
-<div align="center">
-
-### 💜 Obrigada por visitar meu perfil!
-
-**"Sempre aprendendo, criando e evoluindo."**
-
-<br>
-
-⭐ Se algum projeto meu te ajudar, deixe uma estrela!
-
-</div>
-```
-
-Essa versão fica bem mais **visual**, principalmente por causa dos badges, da tabela, da “barra” de aprendizado e do fluxinho da jornada. E você pode ir atualizando conforme aprender novas tecnologias.
+📚 estudando programação
+💻 criando projetos
+🐍 praticando Python
+🐘 aprendendo PHP
+🌐 fazendo sites
+🎨 criando slides
+🔧 aprendendo Git
