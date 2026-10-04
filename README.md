@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:FF6B9D,100:2CB67D&height=190&section=header&text=REBECA%BORTOLI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=student%20developer%20%F0%9F%92%BB&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:FF6B9D,100:2CB67D&height=190&section=header&text=Rebeca%Bortoli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=student%20developer%20%F0%9F%92%BB&descAlignY=58&descSize=18"/>
 
 # 👋 Oi, eu sou a Rebeca!
 
