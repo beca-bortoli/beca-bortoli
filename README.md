@@ -133,29 +133,42 @@ que estou aprendendo a fazer.
 
 ---
 
+---
+
 ## 👩🏻‍💻 Um pouco de código
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>Meu Primeiro Site</title>
-</head>
+Um dos primeiros códigos que fiz estudando HTML:
 
-<body>
 
-    <h1>Olá, mundo!</h1>
+<br>
 
-    <h2>Meu primeiro site</h2>
+    <!DOCTYPE html>
+    <html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <title>Meu Primeiro Site</title>
+    </head>
 
-    <p>Olá! Meu nome é Rebeca e estou aprendendo HTML.</p>
+    <body>
 
-    <p>Estou estudando Desenvolvimento de Sistemas.</p>
+        <h1>Olá, mundo!</h1>
 
-    <button>Clique aqui</button>
+        <h2>Meu primeiro site</h2>
 
-</body>
-</html>
+        <p>Olá! Meu nome é Rebeca e estou aprendendo HTML.</p>
+
+        <p>Estou estudando Desenvolvimento de Sistemas.</p>
+
+        <button>Clique aqui</button>
+
+    </body>
+    </html>
+
+</details>
+
+🌐 **HTML** foi uma das primeiras coisas que comecei a aprender.
+
+💡 Ainda estou aprendendo, então aqui ficam alguns dos meus primeiros códigos e projetos.
 
 ---
 
@@ -219,7 +232,7 @@ que estou aprendendo a fazer.
 
 Esse README provavelmente vai mudar várias vezes,
 porque eu ainda estou aprendendo e sempre aparece alguma
-coisa nova para colocar aqui. 😂
+coisa nova para colocar aqui.
 
 <br><br>
 
