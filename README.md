@@ -116,7 +116,7 @@ em PHP.
 
 ---
 
-````markdown
+markdown
 ---
 
 ## 🎯 No momento...
@@ -169,7 +169,7 @@ em PHP.
 
 ⬇️
 
-**☕ Pausa estratégica**
+** Pausa estratégica**
 
 ⬇️
 
@@ -209,7 +209,7 @@ em PHP.
 💡 **Criatividade**  
 📚 **Aprender**  
 🧩 **Criar projetos**  
-☕ **Café**
+
 
 </div>
 
@@ -257,9 +257,9 @@ print(eu.objetivo)
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&border_radius=18"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=beca-bortoli&show_icons=true&theme=radical&hide_border=true&border_radius=18"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&border_radius=18"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beca-bortoli&layout=compact&theme=radical&hide_border=true&border_radius=18"/>
 
 </div>
 
