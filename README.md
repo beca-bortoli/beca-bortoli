@@ -127,7 +127,7 @@ que estou aprendendo a fazer.
 💡 Criatividade  
 📚 Aprender  
 🧩 Criar projetos  
-
+🎨 Desenhar
 
 </div>
 
