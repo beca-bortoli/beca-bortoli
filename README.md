@@ -135,25 +135,27 @@ que estou aprendendo a fazer.
 
 ## 👩🏻‍💻 Um pouco de código
 
-python
-class Rebeca:
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Primeiro Site</title>
+</head>
 
-    curso = "Desenvolvimento de Sistemas"
+<body>
 
-    estudando = [
-        "HTML",
-        "CSS",
-        "Python",
-        "PHP",
-        "MySQL"
-    ]
+    <h1>Olá, mundo!</h1>
 
-    objetivo = "Aprender cada vez mais"
+    <h2>Meu primeiro site</h2>
 
+    <p>Olá! Meu nome é Rebeca e estou aprendendo HTML.</p>
 
-eu = Rebeca()
+    <p>Estou estudando Desenvolvimento de Sistemas.</p>
 
-print(eu.objetivo)
+    <button>Clique aqui</button>
+
+</body>
+</html>
 
 ---
 
